@@ -1,0 +1,46 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+table{
+    margin: auto;
+    
+}
+.end{
+    font-size: small;
+}
+/*********************      Tables part     *********************/
+.started    {
+    border: 0;
+    width: 90%;
+}
+.tdstarted  {
+    background-color: #EEEEEE;
+}   
+.tdbeggining    {
+    background-color: #7EE5DA;
+    width: 35%;
+}
+.tdmiddle   {
+    background-color: #70CCC2;
+    width: 35%;
+    
+}
+.tdlast {
+    text-align: center;
+    background-color: #62B3AA;
+    
+}
+.listtypenone {
+    text-decoration:none ;
+}
+.begginingnone  {
+    list-style-type: none;
+}
+.end-part   {
+    font-size: medium;
+}
+.last-table {
+    background-color: #71c4ba;
+}
